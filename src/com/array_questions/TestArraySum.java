@@ -1,0 +1,9 @@
+package com.array_questions;
+
+public class TestArraySum {
+	public static void main(String[] args) {
+		int a = 10;
+		int b = 10;
+		System.out.println(a+b);
+	}
+}
